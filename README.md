@@ -39,7 +39,11 @@ Welcome to the AI-powered meme generator bot for Discord – built to roast you,
 
 ```
 git clone https://github.com/atakankaracali/discord-meme-bot.git
+```
+```
 cd discord-meme-bot
+```
+```
 npm install
 ```
 
