@@ -80,8 +80,11 @@ Project → [www.aigeneratememe.com](www.aigeneratememe.com)!
 If you like this project, please consider:
 
 Starring the repo ⭐️
+
 Sharing it with your dev friends 🧠
+
 Giving feedback or ideas via issues or Discord 💬
+
 Built with code, caffeine, and chaos.
 
 
