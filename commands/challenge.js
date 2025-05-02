@@ -19,8 +19,8 @@ export default {
         const buttonRow = new ActionRowBuilder().addComponents(
             new ButtonBuilder()
                 .setCustomId(BUTTON_IDS.GENERATE_AGAIN_CHALLENGE)
-                .setLabel('🔁 Try Another Challenge')
-                .setStyle(ButtonStyle.Danger)
+                .setLabel('🔁 Get Another Challenge')
+                .setStyle(ButtonStyle.Secondary)
         );
 
         const message = await interaction.editReply({
