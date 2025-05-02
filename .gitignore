@@ -1,0 +1,13 @@
+node_modules/
+.env
+logs/
+dist/
+.DS_Store
+
+firebase-key.json
+
+*.log
+*.tsbuildinfo
+*.swp
+
+.vscode/
