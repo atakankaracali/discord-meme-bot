@@ -1,4 +1,4 @@
-# 🤖 AI Meme Discord Bot
+# AI Meme Discord Bot
 
 Welcome to the AI-powered meme generator bot for Discord – built to roast you, inspire you, or just give you something weird and hilarious.
 
@@ -75,9 +75,9 @@ Want to try it on your server?
 
 Atakan Karacali
 
-LinkedIn → [@atakankaracali](https://www.linkedin.com/in/atakankaracali)!
+LinkedIn → [@atakankaracali](https://www.linkedin.com/in/atakankaracali)
 
-Project → [www.aigeneratememe.com](www.aigeneratememe.com)!
+Project → [www.aigeneratememe.com](www.aigeneratememe.com)
 
 
 ## Show Your Support
