@@ -70,6 +70,7 @@ Want to try it on your server?
 ## Author
 
 Atakan Karacali
+
 LinkedIn → [@atakankaracali](https://www.linkedin.com/in/atakankaracali)!
 
 Project → [www.aigeneratememe.com](www.aigeneratememe.com)!
