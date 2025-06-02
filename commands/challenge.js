@@ -32,7 +32,7 @@ export default {
             try {
                 await message.react(emoji);
             } catch (err) {
-                console.error('❌ Emoji react error:', emoji, err.message);
+                console.error('Emoji react error:', emoji, err.message);
             }
         }
     },
